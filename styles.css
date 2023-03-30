@@ -1,19 +1,7 @@
-		body{
-            margin: 0;
-            padding: 0;
-        }
-        #margin{
+#content{
             margin: 20px;
-            padding: 0;
-        }
-        #padding{
             border: 15px solid blue;
-            margin: 0;
             padding: 50px;
             background-color: lightblue;
-        }
-        #content{
             width: 300px;
         }
-
-/* Your CSS Code here. */
